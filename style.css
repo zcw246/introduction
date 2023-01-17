@@ -8,7 +8,7 @@ body, html {
   /* - HERO -
 This code controls your "hero image." You will need to change hero.jpg to match your asset*/
   
-background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("hero.jpg");
+background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("hero.JPG");
   height: 100%;
   background-attachment: fixed;
   background-position: center;
@@ -45,7 +45,7 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("
 This code controls that cool parallax image and scrolling effect. Change the image "feet4.jpg" below to match your asset.*/
 /*You can always add more parllax assets on your web document, just follow the directions at the bottom of the index.html.*/
 .parallax-1 { 
-  background-image: url("fuego.jpg");
+  background-image: url("hero.JPG");
 
   /* Set a specific height */
   height: 500px; 
